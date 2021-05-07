@@ -3,12 +3,10 @@ import {Text, View, StyleSheet,Button} from "react-native";
 const NAME="yusera";
 const HomeScreen1=()=>{
     return(
-<View>
-    <Text>
-    Hello, I am {NAME} 
-    
-    </Text>
-</View>
+        <View>
+            <Text>Hello, I am {NAME} 
+            </Text>
+        </View>
     );
 }
 class Home extends Component{

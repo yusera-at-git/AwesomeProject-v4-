@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3353cdf5-1ecb-4f96-9599-72fe88435fa9" name="Default Changelist" comment="" />
+    <list default="true" id="3353cdf5-1ecb-4f96-9599-72fe88435fa9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/HomeScreen1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/HomeScreen1.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rWbs4EveXQk6TxlAhxQZhQpsGM" />
   <component name="ProjectViewState">
@@ -16,7 +23,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,18 +46,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="100" key="#Servers/0.0.1366.728@0.0.1366.728" timestamp="1619095712211" />
-    <state x="141" y="128" width="1146" height="488" key="AVDManager" timestamp="1619573744599">
+    <state x="141" y="128" width="1146" height="488" key="AVDManager" timestamp="1620186339048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="141" y="128" width="1146" height="488" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1619573744599" />
+    <state x="141" y="128" width="1146" height="488" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1620186339048" />
     <state x="471" y="135" key="FileChooserDialogImpl" timestamp="1619571557515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="471" y="135" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619571557515" />
-    <state x="133" y="7" key="SettingsEditor" timestamp="1619573721612">
+    <state x="133" y="0" key="SettingsEditor" timestamp="1620186214881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="133" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1619573721612" />
+    <state x="133" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620186214881" />
     <state x="347" y="172" key="run.anything.popup" timestamp="1619309611655">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
